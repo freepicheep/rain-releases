@@ -1,22 +1,14 @@
-<?xml version="1.0" standalone="yes" ?>
-<rss
-    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-    version="2.0"
->
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Rain</title>
+        <title>Rainaissance</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 22 Sep 2025 11:56:47 -0400</pubDate>
+            <pubDate>Thu, 25 Sep 2025 10:37:03 -0400</pubDate>
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/freepicheep/rain-releases/releases/download/prod/Rain.dmg"
-                length="3924681"
-                type="application/octet-stream"
-                sparkle:edSignature="v5gmk2SvplJvwUMcQDMyiCdT5J91tCs8ig20zV/Rwf/Zj92+VeNk7T0j4RdWbjLxvyhCNUrK2Rg56WPz/Xm+Ag=="
-            />
+            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/prod/Rainaissance.1.0.dmg" length="6133915" type="application/octet-stream" sparkle:edSignature="XMBR/LwRoTN8Fe0MRhzTFjfXtoPZQIKm547YdrtWXwMpaEXiPm2ZnMek2avkJc4xnNOhFAYnSTpKRGyiMfy9Cg=="/>
         </item>
     </channel>
 </rss>

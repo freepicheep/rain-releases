@@ -8,7 +8,7 @@
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/prod/Rainaissance.1.0.dmg" length="6133915" type="application/octet-stream" sparkle:edSignature="XMBR/LwRoTN8Fe0MRhzTFjfXtoPZQIKm547YdrtWXwMpaEXiPm2ZnMek2avkJc4xnNOhFAYnSTpKRGyiMfy9Cg=="/>
+            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/prod/Rainaissance.1.0.dmg" length="6132889" type="application/octet-stream" sparkle:edSignature="rySNhimqDxE9O0MvuZRnE/o6un+Z+JyvVJb+Ebw1srFxSXLqaeenfN3mo67U4WuolPVxV4UkAj1xuP/nvotuDQ=="/>
         </item>
     </channel>
 </rss>

@@ -3,12 +3,12 @@
     <channel>
         <title>Rainaissance</title>
         <item>
-            <title>1.1.1</title>
-            <pubDate>Tue, 30 Sep 2025 15:15:41 -0400</pubDate>
-            <sparkle:version>1.1.1</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <title>1.1.2</title>
+            <pubDate>Tue, 30 Sep 2025 19:18:18 -0400</pubDate>
+            <sparkle:version>1.1.2</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v1.1.1/Rainaissance.1.1.1.dmg" length="8645728" type="application/octet-stream" sparkle:edSignature="hQvxH9yJTN+imptnBfWvWIiUCGguHQ6kBdnvgQbFEDwlXph1t7X0Dw9a+e7idTkgI2O9hIaiSg1+TLBIFvRaBQ=="/>
+            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v1.1.2/Rainaissance.1.1.2.dmg" length="8648779" type="application/octet-stream" sparkle:edSignature="h+7GTfvWkmDwOhURFyGsQNCX6J/KZL5aj+fH0Ko7Q7FY6GQYelKPzzWK/1GwgPNycPoLCYvrk3KHWJrzzjFzCA=="/>
         </item>
     </channel>
 </rss>

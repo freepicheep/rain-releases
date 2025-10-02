@@ -4,14 +4,15 @@
         <title>Rainaissance</title>
         <item>
             <title>1.1.3</title>
-            <pubDate>Thu, 02 Oct 2025 09:11:08 -0400</pubDate>
+            <pubDate>Thu, 02 Oct 2025 09:51:36 -0400</pubDate>
             <sparkle:criticalUpdate sparkle:version="1.1.3"/>
             <sparkle:version>1.1.3</sparkle:version>
             <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Fix Multiple Monitor Connect/Disconnect Issues</h2>
-<p>This update resolves an issue where Rainaissance would create multiple instances of itself when connecting/disconnecting from external monitors quickly.</p>]]></description>
-            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v.1.1.3/Rainaissance.1.1.3.dmg" length="8648542" type="application/octet-stream" sparkle:edSignature="0pztZfHd43BZ0hQXYbrlPFkOOycDsc63jkBq3qpTu84dKI+0TsUM/MTete4mnfDCfRG/N+nypXHsrEsDPYN2Dw=="/>
+<p>This update resolves an issue where Rainaissance would create multiple instances of itself when connecting/disconnecting from external monitors quickly.</p>
+<p>Also, auto updates should work moving forward if you have Rainaissance set to automatically check for them.</p>]]></description>
+            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v.1.1.3/Rainaissance.1.1.3.dmg" length="8647731" type="application/octet-stream" sparkle:edSignature="43zShrfEH6mUiE7/9oi3T6jSmDBbcfuK7+g76h1oay5e5AfjhFYlbzqh+kpXcUBfQmQAWnKkpi7KLo+qryPVBA=="/>
         </item>
     </channel>
 </rss>

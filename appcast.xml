@@ -3,16 +3,24 @@
     <channel>
         <title>Rainaissance</title>
         <item>
-            <title>1.1.3</title>
-            <pubDate>Thu, 02 Oct 2025 09:51:36 -0400</pubDate>
-            <sparkle:criticalUpdate sparkle:version="1.1.3"/>
-            <sparkle:version>1.1.3</sparkle:version>
-            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <title>1.1.4</title>
+            <pubDate>Thu, 02 Oct 2025 10:16:48 -0400</pubDate>
+            <sparkle:criticalUpdate sparkle:version="1.1.4"/>
+            <sparkle:version>1.1.4</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Fix Multiple Monitor Connect/Disconnect Issues</h2>
-<p>This update resolves an issue where Rainaissance would create multiple instances of itself when connecting/disconnecting from external monitors quickly.</p>
-<p>Also, auto updates should work moving forward if you have Rainaissance set to automatically check for them.</p>]]></description>
-            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v.1.1.3/Rainaissance.1.1.3.dmg" length="8647731" type="application/octet-stream" sparkle:edSignature="43zShrfEH6mUiE7/9oi3T6jSmDBbcfuK7+g76h1oay5e5AfjhFYlbzqh+kpXcUBfQmQAWnKkpi7KLo+qryPVBA=="/>
+            <description><![CDATA[<h2>Fix App Not Checking For Updates Automatically</h2>
+<p>Rainaissance will now check for updates automatically if you toggle on "Automatically check for updates" in the
+    "Updates" section of the settings. The setting was there earlier, but Rainaissance did not actually check for
+    updates
+    automatically.</p>
+
+<h2>Previously...</h2>
+
+<h3>Rainaissance v1.1.3 - Fix Multiple Monitor Connect/Disconnect Issues</h3>
+<p>This update resolves an issue where Rainaissance would create multiple instances of itself when
+    connecting/disconnecting from external monitors quickly.</p>]]></description>
+            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v.1.1.4/Rainaissance.1.1.4.dmg" length="8647808" type="application/octet-stream" sparkle:edSignature="ozl1CkQ4qYtu3n1UMvCToI+MFA5/aHsLj3C2Gs06x/aXZnPv+GRmRw2qMQ0OIew6mPulr/oMhi7ahWKql8z2Aw=="/>
         </item>
     </channel>
 </rss>

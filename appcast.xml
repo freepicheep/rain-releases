@@ -3,24 +3,19 @@
     <channel>
         <title>Rainaissance</title>
         <item>
-            <title>1.1.4</title>
-            <pubDate>Thu, 02 Oct 2025 10:16:48 -0400</pubDate>
-            <sparkle:criticalUpdate sparkle:version="1.1.4"/>
-            <sparkle:version>1.1.4</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <title>1.1.5</title>
+            <pubDate>Thu, 23 Oct 2025 17:31:37 +0300</pubDate>
+            <sparkle:version>1.1.5</sparkle:version>
+            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Fix App Not Checking For Updates Automatically</h2>
-<p>Rainaissance will now check for updates automatically if you toggle on "Automatically check for updates" in the
-    "Updates" section of the settings. The setting was there earlier, but Rainaissance did not actually check for
-    updates
-    automatically.</p>
-
-<h2>Previously...</h2>
-
-<h3>Rainaissance v1.1.3 - Fix Multiple Monitor Connect/Disconnect Issues</h3>
-<p>This update resolves an issue where Rainaissance would create multiple instances of itself when
-    connecting/disconnecting from external monitors quickly.</p>]]></description>
-            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v.1.1.4/Rainaissance.1.1.4.dmg" length="8647808" type="application/octet-stream" sparkle:edSignature="ozl1CkQ4qYtu3n1UMvCToI+MFA5/aHsLj3C2Gs06x/aXZnPv+GRmRw2qMQ0OIew6mPulr/oMhi7ahWKql8z2Aw=="/>
+            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v.1.1.5/Rainaissance.1.1.5.dmg" length="8654147" type="application/octet-stream" sparkle:edSignature="+w23S4TowGS24x8x4F2cz167plbzsCMjVEfUmm2KnBMlPKtau0OLAkqBIuoi48fqwooJ/suhy+oxev9lCzIXDg=="/>
+            <description><![CDATA[<h1>Rainaissance 1.1.5 Release Notes</h1>
+<h2>Rain Behind Windows!</h2>
+<p>New feature! You can now choose rain behind all windows, over all windows (but not in fullscreen), or over all
+    windows including fullscreen. This was a much requested feature, and I hope you enjoy rain on your wallpaper as much
+    as I do. It's great for when you don't want rain interfering with your work but you still like the moody feel on
+    your wallpaper.
+</p>]]></description>
         </item>
     </channel>
 </rss>

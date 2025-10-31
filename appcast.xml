@@ -3,19 +3,16 @@
     <channel>
         <title>Rainaissance</title>
         <item>
-            <title>1.1.5</title>
-            <pubDate>Thu, 23 Oct 2025 17:31:37 +0300</pubDate>
-            <sparkle:version>1.1.5</sparkle:version>
-            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+            <title>1.1.7</title>
+            <pubDate>Fri, 31 Oct 2025 20:25:03 +0100</pubDate>
+            <sparkle:criticalUpdate sparkle:version="1.1.7"/>
+            <sparkle:version>1.1.7</sparkle:version>
+            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v.1.1.5/Rainaissance.1.1.5.dmg" length="8654147" type="application/octet-stream" sparkle:edSignature="+w23S4TowGS24x8x4F2cz167plbzsCMjVEfUmm2KnBMlPKtau0OLAkqBIuoi48fqwooJ/suhy+oxev9lCzIXDg=="/>
-            <description><![CDATA[<h1>Rainaissance 1.1.5 Release Notes</h1>
-<h2>Rain Behind Windows!</h2>
-<p>New feature! You can now choose rain behind all windows, over all windows (but not in fullscreen), or over all
-    windows including fullscreen. This was a much requested feature, and I hope you enjoy rain on your wallpaper as much
-    as I do. It's great for when you don't want rain interfering with your work but you still like the moody feel on
-    your wallpaper.
+            <description><![CDATA[<h1>Rainaissance 1.1.7 Release Notes</h1>
+<p>Fixes nasty bug with license valdition failing on startup.
 </p>]]></description>
+            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v.1.1.7/Rainaissance.1.1.7.dmg" length="8660547" type="application/octet-stream" sparkle:edSignature="1hcffD7WfdxlsW/D0NgohjpgFMGvOXcmH0ZXmqFA/5SO9FRWp5AXkybZ3+7mS2lHjrf6nvE/SPr2ko/Cl5OiDg=="/>
         </item>
     </channel>
 </rss>

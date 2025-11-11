@@ -3,16 +3,19 @@
     <channel>
         <title>Rainaissance</title>
         <item>
-            <title>1.1.7</title>
-            <pubDate>Fri, 31 Oct 2025 20:25:03 +0100</pubDate>
-            <sparkle:criticalUpdate sparkle:version="1.1.7"/>
-            <sparkle:version>1.1.7</sparkle:version>
-            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+            <title>1.2.0</title>
+            <pubDate>Tue, 11 Nov 2025 14:41:43 -0500</pubDate>
+            <sparkle:version>1.2.0</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h1>Rainaissance 1.1.7 Release Notes</h1>
-<p>Fixes nasty bug with license valdition failing on startup.
-</p>]]></description>
-            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v.1.1.7/Rainaissance.1.1.7.dmg" length="8660547" type="application/octet-stream" sparkle:edSignature="1hcffD7WfdxlsW/D0NgohjpgFMGvOXcmH0ZXmqFA/5SO9FRWp5AXkybZ3+7mS2lHjrf6nvE/SPr2ko/Cl5OiDg=="/>
+            <description><![CDATA[<h1>Rain Background Sounds! 🌧️ 🔊</h1>
+<p>Don't want to just watch rain, but hear it too? You can now choose from a lovely collection of rain sounds, including
+    heavy rain, light rain, rain on car glass, and thunderstorms. The sounds will automatically download when you
+    relaunch Rainaissance after installing this update. Just head into the settings to choose a sound of your choice.
+    </br></br>
+    Note: I may add more rain sounds. The best part? They will automatically download for you without installing an
+    update.</p>]]></description>
+            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v1.2.0/Rainaissance.1.2.0.dmg" length="6935136" type="application/octet-stream" sparkle:edSignature="26Crh7Et7p8POMbox2ZVLIvPF6vMfPudY6hwp1FQyZWZ+6O5nUY5itG0eHbkc31pvioYMzDshEYQks/a0RbjAQ=="/>
         </item>
     </channel>
 </rss>

@@ -3,6 +3,20 @@
     <channel>
         <title>Rainaissance</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Fri, 14 Nov 2025 11:07:06 -0500</pubDate>
+            <sparkle:version>1.2.1</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>Updated UI, Internet Access Policy</h1>
+                <p>I updated a few visual things to make Rainaissance look even better. I also added an Internet Access Policy so those
+                    of you who use Little Snitch can see why Rainaissance makes the internet calls it does (which are only to download
+                    rain sounds, validate your license, and check for updates). License activation also works better now and uses your device name in the online portal so you can keep track of the devices you activated.
+                </p>
+            </description>
+            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v1.2.1/Rainaissance.1.2.1.dmg" length="6942310" type="application/octet-stream" sparkle:edSignature="Kp76rROqSdUCwWq9MK0R5tX1uODmCZEyJ4nIOFJB8h0vUHgpsTdmwdLmrwPgVsiJGVqVa3U/zrat/padZe7EAQ=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Tue, 11 Nov 2025 14:41:43 -0500</pubDate>
             <sparkle:version>1.2.0</sparkle:version>

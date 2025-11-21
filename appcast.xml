@@ -3,33 +3,19 @@
     <channel>
         <title>Rainaissance</title>
         <item>
-            <title>1.2.1</title>
-            <pubDate>Fri, 14 Nov 2025 11:07:06 -0500</pubDate>
-            <sparkle:version>1.2.1</sparkle:version>
-            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <title>2.0.0</title>
+            <pubDate>Fri, 21 Nov 2025 16:14:31 -0500</pubDate>
+            <sparkle:version>2.0.0</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h1>Updated UI, Internet Access Policy</h1>
-                <p>I updated a few visual things to make Rainaissance look even better. I also added an Internet Access Policy so those
-                    of you who use Little Snitch can see why Rainaissance makes the internet calls it does (which are only to download
-                    rain sounds, validate your license, and check for updates). License activation also works better now and uses your device name in the online portal so you can keep track of the devices you activated.
-                </p>
-            </description>
-            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v1.2.1/Rainaissance.1.2.1.dmg" length="6942310" type="application/octet-stream" sparkle:edSignature="Kp76rROqSdUCwWq9MK0R5tX1uODmCZEyJ4nIOFJB8h0vUHgpsTdmwdLmrwPgVsiJGVqVa3U/zrat/padZe7EAQ=="/>
-        </item>
-        <item>
-            <title>1.2.0</title>
-            <pubDate>Tue, 11 Nov 2025 14:41:43 -0500</pubDate>
-            <sparkle:version>1.2.0</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h1>Rain Background Sounds! 🌧️ 🔊</h1>
-<p>Don't want to just watch rain, but hear it too? You can now choose from a lovely collection of rain sounds, including
-    heavy rain, light rain, rain on car glass, and thunderstorms. The sounds will automatically download when you
-    relaunch Rainaissance after installing this update. Just head into the settings to choose a sound of your choice.
-    </br></br>
-    Note: I may add more rain sounds. The best part? They will automatically download for you without installing an
-    update.</p>]]></description>
-            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v1.2.0/Rainaissance.1.2.0.dmg" length="6935136" type="application/octet-stream" sparkle:edSignature="26Crh7Et7p8POMbox2ZVLIvPF6vMfPudY6hwp1FQyZWZ+6O5nUY5itG0eHbkc31pvioYMzDshEYQks/a0RbjAQ=="/>
+            <description><![CDATA[<h1>Rainaissance 2.0 | Snow ❄️, Rain Sounds 🔊, + More</h1>
+<p>Welcome to Rainaissance 2.0. Here you find snow! Snow on your mac is a delightful thing and truly prepares you for
+    the cozy holidays. Watch the snow drift lazily down your screen or set it to be a full on blizzard. It's fun.🌨️
+    <br><br>
+    Not only do we have snow, but you can also turn on rain sounds. This was introduced earlier, but has been improved
+    to properly sync with the server where the sounds are pulled from.
+</p>]]></description>
+            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v2.0.0/Rainaissance.2.0.0.dmg" length="6967378" type="application/octet-stream" sparkle:edSignature="HAIcBUPubYhp270L6RouS6JtAUULJ18ufiHfBe5T+zSYTkBxW8ngFU01rATZifOEkNQjGZ9BkrXY6YSa6pMvBQ=="/>
         </item>
     </channel>
 </rss>
